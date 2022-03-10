@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12.10) (preloaded format=xelatex 2022.1.9)  17 JAN 2022 15:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.12.10) (preloaded format=xelatex 2022.1.9)  26 FEB 2022 18:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Code/TEST/test.tex
-(d:/Code/TEST/test.tex
+**d:/Code/tex_test/test.tex
+(d:/Code/tex_test/test.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
 (C:\Users\Asphel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -36,8 +36,7 @@ File: l3backend-xetex.def 2021-12-14 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count191
 \g__pdf_backend_annotation_int=\count192
 \g__pdf_backend_link_int=\count193
-)
-No file test.aux.
+) (test.aux)
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -51,6 +50,7 @@ LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 .
+
 (C:\Users\Asphel\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -66,12 +66,12 @@ LaTeX Font Info:    ... okay on input line 2.
 
 ] (test.aux) ) 
 Here is how much of TeX's memory you used:
- 455 strings out of 411044
- 9067 string characters out of 2825190
+ 457 strings out of 411044
+ 9095 string characters out of 2825190
  310211 words of memory out of 3000000
  21185 multiletter control sequences out of 15000+600000
  403438 words of font info for 28 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,5n,39p,156b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,39p,160b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on test.pdf (1 page).
